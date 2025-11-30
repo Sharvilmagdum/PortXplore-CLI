@@ -26,10 +26,15 @@ It is designed to be beginner-friendly while still providing deep network enumer
 
 ## 📁 Project Structure
 PortXplore-CLI/ 
+
 │ 
+
 ├── portxplore_advanced.py 
+
 ├── report_generator.py 
+
 ├── requirements.txt 
+
 └── sample_reports/
 ---
 
