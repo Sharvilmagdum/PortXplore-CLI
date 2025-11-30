@@ -40,9 +40,7 @@ pip install -r requirements.txt
 
 ### Install Nmap  
 - Windows: https://nmap.org/download.html  
-- Linux:
-
-sudo apt install nmap
+- Linux: sudo apt install nmap
 
 ---
 
